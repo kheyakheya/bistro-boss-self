@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.myButton{
+    @apply  btn btn-outline  border-0  border-yellow-600 text-yellow-600 border-b-4 mt-4
+}
